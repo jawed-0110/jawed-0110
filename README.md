@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+#### 🚀 About Me
 
 - 🎓 2nd Year BCA Student at **Sandip University, Nashik**
 - 💻 Learning **Python, DBMS, Data Structures (C), Web Technologies**
